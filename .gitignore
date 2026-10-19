@@ -1,0 +1,18 @@
+# Model assets and generated working files
+*.yft
+*.ytd
+*.ydr
+*.ybn
+*.dds
+*.blend
+*.blend1
+*.rar
+*.zip
+*.yft.xml
+**/bin/
+**/obj/
+**/artifacts/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

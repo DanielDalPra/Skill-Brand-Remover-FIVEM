@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTA/FiveM Brand Remover"
+  short_description: "Debrand vehicle assets and verify them in Blender"
+  default_prompt: "Use $gta-vehicle-debranding to remove branding from this vehicle while preserving its geometry and original details."
